@@ -1,5 +1,4 @@
-# Full-Stack-Development-
-# To do list web application 
+# Full-Stack-Development-To do list web application 
 todo-app/
 ├── backend/
 │   ├── models/
